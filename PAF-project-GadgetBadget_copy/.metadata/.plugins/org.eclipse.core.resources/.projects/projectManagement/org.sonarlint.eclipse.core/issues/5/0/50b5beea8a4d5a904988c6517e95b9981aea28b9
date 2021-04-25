@@ -1,0 +1,102 @@
+
+p
+java:S2095~"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿRBLOCKERZBUG
+l
+java:S2095¸"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»RBLOCKERZBUG
+y
+java:S2095Ú"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Í¢ÚüÿÿÿÿRBLOCKERZBUG
+s
+java:S2095P"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ô­£ÂRBLOCKERZBUG
+y
+java:S2095í"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ìŸäıÿÿÿÿRBLOCKERZBUG
+l
+java:S2095,"HUse try-with-resources or close this "Connection" in a "finally" clause.(ò“å²RBLOCKERZBUG
+t
+java:S1192"GDefine a constant instead of duplicating this literal "</td>" 10 times.(œ¡£ÒRCRITICALZ
+CODE_SMELL
+F
+java:S1643"Use a StringBuilder instead.(œ¡£ÒRMINORZ
+CODE_SMELL
+K
+java:S1643"Use a StringBuilder instead.(´º—¯úÿÿÿÿRMINORZ
+CODE_SMELL
+F
+java:S1643‘"Use a StringBuilder instead.(ó·‰ÚRMINORZ
+CODE_SMELL
+F
+java:S1643’"Use a StringBuilder instead.(óîØìRMINORZ
+CODE_SMELL
+F
+java:S1643“"Use a StringBuilder instead.(ÈˆˆRMINORZ
+CODE_SMELL
+K
+java:S1643”"Use a StringBuilder instead.(Š—Ç«ıÿÿÿÿRMINORZ
+CODE_SMELL
+F
+java:S1643•"Use a StringBuilder instead.(á±•õRMINORZ
+CODE_SMELL
+K
+java:S1643–"Use a StringBuilder instead.(ç…ÊºıÿÿÿÿRMINORZ
+CODE_SMELL
+F
+java:S1643—"Use a StringBuilder instead.(ÂŞòRMINORZ
+CODE_SMELL
+F
+java:S1643˜"Use a StringBuilder instead.(¸ÉÉ¿RMINORZ
+CODE_SMELL
+K
+java:S1643›"Use a StringBuilder instead.(»§ËÂşÿÿÿÿRMINORZ
+CODE_SMELL
+	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µöüûÿÿÿÿRMINORZ
+CODE_SMELL
+y	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦İÍnRMINORZ
+CODE_SMELL
+	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€œÊŞùÿÿÿÿRMINORZ
+CODE_SMELL
+z	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íş³ÜRMINORZ
+CODE_SMELL
+z	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¸ó„RMINORZ
+CODE_SMELL
+	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¯£ÿüÿÿÿÿRMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù³ÊûÿÿÿÿRMINORZ
+CODE_SMELL
+T
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼üRMINORZ
+CODE_SMELL
+[
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿRMAJORZ
+CODE_SMELL
+W
+java:S2115")Add password protection to this database.(ò“å²RBLOCKERZVULNERABILITY
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(ùø¼RMAJORZ
+CODE_SMELL
+[
+java:S4925+"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿRMAJORZ
+CODE_SMELL
+W
+java:S2115,")Add password protection to this database.(ò“å²RBLOCKERZVULNERABILITY
+f	java:S106/"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+h
+java:S1854b":Remove this useless assignment to local variable "output".(¡€›„ûÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106e"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106i"9Replace this use of System.out or System.err by a logger.(˜ê­ŒùÿÿÿÿRMAJORZ
+CODE_SMELL
+g	java:S106ª"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿRMAJORZ
+CODE_SMELL
+e	java:S125Ê"<This block of commented-out lines of code should be removed.(åàÏ½RMAJORZ
+CODE_SMELL
+`
+java:S1135Í"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿRINFOZ
+CODE_SMELL
+V
+java:S1481("(Remove this unused "con" local variable.(ôäÄ­ıÿÿÿÿRMINORZ
+CODE_SMELL
+Y
+java:S1481I"+Remove this unused "output" local variable.(ıÒ›ÙùÿÿÿÿRMINORZ
+CODE_SMELL
