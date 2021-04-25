@@ -1,5 +1,0 @@
-INDEX VERSION 1.4+C:\Users\Kaumadi\Downloads\PAF-project-GadgetBadget-master (2)\PAF-project-GadgetBadget_copy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3343504307.index
-2466885448.index
-4115780844.index
-1473942989.index
